@@ -1,0 +1,29 @@
+[08-Feb-2018 06:20:08 UTC] PHP Notice:  Undefined index: email in /home/letsweb/public_html/demo/weconnect/api/login.php on line 7
+[08-Feb-2018 06:20:08 UTC] PHP Notice:  Undefined index: password in /home/letsweb/public_html/demo/weconnect/api/login.php on line 8
+[08-Feb-2018 12:06:10 Asia/Kolkata] PHP Notice:  Undefined index: catdesp in /home/letsweb/public_html/demo/weconnect/api/addcomplaint.php on line 10
+[08-Feb-2018 12:06:10 Asia/Kolkata] PHP Warning:  move_uploaded_file(uploads/1518071763097.jpeg): failed to open stream: No such file or directory in /home/letsweb/public_html/demo/weconnect/api/addcomplaint.php on line 43
+[08-Feb-2018 12:06:10 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpyhxMxs' to 'uploads/1518071763097.jpeg' in /home/letsweb/public_html/demo/weconnect/api/addcomplaint.php on line 43
+[08-Feb-2018 06:38:10 UTC] PHP Notice:  Undefined index: email in /home/letsweb/public_html/demo/weconnect/api/mycomplaints.php on line 7
+[08-Feb-2018 13:06:19 Asia/Kolkata] PHP Notice:  Undefined index: catdesp in /home/letsweb/public_html/demo/weconnect/api/addcomplaint.php on line 10
+[08-Feb-2018 13:06:19 Asia/Kolkata] PHP Warning:  move_uploaded_file(uploads/api/1518075377007.jpeg): failed to open stream: No such file or directory in /home/letsweb/public_html/demo/weconnect/api/addcomplaint.php on line 43
+[08-Feb-2018 13:06:19 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3cRIDE' to 'uploads/api/1518075377007.jpeg' in /home/letsweb/public_html/demo/weconnect/api/addcomplaint.php on line 43
+[08-Feb-2018 13:06:21 Asia/Kolkata] PHP Notice:  Undefined index: ccat in /home/letsweb/public_html/demo/weconnect/api/addcomplaint.php on line 9
+[08-Feb-2018 13:06:21 Asia/Kolkata] PHP Notice:  Undefined index: catdesp in /home/letsweb/public_html/demo/weconnect/api/addcomplaint.php on line 10
+[08-Feb-2018 13:06:21 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/letsweb/public_html/demo/weconnect/api/addcomplaint.php on line 11
+[08-Feb-2018 13:06:21 Asia/Kolkata] PHP Notice:  Undefined index: compimg in /home/letsweb/public_html/demo/weconnect/api/addcomplaint.php on line 15
+[08-Feb-2018 13:12:47 Asia/Kolkata] PHP Notice:  Undefined index: catdesp in /home/letsweb/public_html/demo/weconnect/api/addcomplaint.php on line 10
+[08-Feb-2018 13:33:02 Asia/Kolkata] PHP Notice:  Undefined index: catdesp in /home/letsweb/public_html/demo/weconnect/api/addcomplaint.php on line 10
+[08-Feb-2018 08:19:41 UTC] PHP Notice:  Undefined index: email in /home/letsweb/public_html/demo/weconnect/api/userapprove.php on line 7
+[08-Feb-2018 08:19:41 UTC] PHP Notice:  Undefined index: id in /home/letsweb/public_html/demo/weconnect/api/userapprove.php on line 8
+[03-Apr-2018 10:52:19 UTC] PHP Notice:  Undefined index: name in /home/letsweb/public_html/demo/weconnect/api/register.php on line 7
+[03-Apr-2018 10:52:19 UTC] PHP Notice:  Undefined index: email in /home/letsweb/public_html/demo/weconnect/api/register.php on line 8
+[03-Apr-2018 10:52:19 UTC] PHP Notice:  Undefined index: password in /home/letsweb/public_html/demo/weconnect/api/register.php on line 9
+[03-Apr-2018 10:52:19 UTC] PHP Notice:  Undefined index: address in /home/letsweb/public_html/demo/weconnect/api/register.php on line 10
+[03-Apr-2018 10:52:19 UTC] PHP Notice:  Undefined index: phone in /home/letsweb/public_html/demo/weconnect/api/register.php on line 11
+[03-Apr-2018 10:52:19 UTC] PHP Notice:  Undefined index: area in /home/letsweb/public_html/demo/weconnect/api/register.php on line 12
+[03-Apr-2018 10:52:19 UTC] PHP Notice:  Undefined index: pincode in /home/letsweb/public_html/demo/weconnect/api/register.php on line 13
+[03-Apr-2018 10:52:19 UTC] PHP Notice:  Undefined index: wardno in /home/letsweb/public_html/demo/weconnect/api/register.php on line 14
+[03-Apr-2018 10:52:25 UTC] PHP Notice:  Undefined index: email in /home/letsweb/public_html/demo/weconnect/api/login.php on line 7
+[03-Apr-2018 10:52:25 UTC] PHP Notice:  Undefined index: password in /home/letsweb/public_html/demo/weconnect/api/login.php on line 8
+[06-Apr-2018 18:48:05 UTC] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home/letsweb/public_html/demo/weconnect/api/login.php on line 12
+[06-Apr-2018 19:22:44 UTC] PHP Notice:  Undefined index: email in /home/letsweb/public_html/demo/weconnect/api/mycomplaints.php on line 8
